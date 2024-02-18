@@ -4,7 +4,7 @@ Event_Flow_Application GitHub projesi, Flutter kullanarak bir etkinlik yönetim 
 ## Kullanılan Teknolojiler:
 Dart
 Flutter
-SQLite (sqflite paketi kullanılarak)
+SQLite 
 ## Uygulama İçeriği:
 - EventListScreen: Ana ekran, mevcut etkinlikleri listeler ve silmeyi, seçmeyi ve yeni etkinlik eklemeyi sağlar.
 - AddEventScreen: Yeni etkinlik eklemek için ekran, etkinlik adı, tarih, katılımcı sayısı ve etkinlik resmi eklemenizi sağlar.
