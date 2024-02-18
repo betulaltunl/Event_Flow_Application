@@ -1,5 +1,5 @@
 # **Proje Adı: EventFlow**
-Event_Flow_Application GitHub projesi, Flutter kullanarak bir etkinlik yönetim uygulamasıdır. Uygulama, etkinliklerinizi listeler, yeni etkinlikler eklemenize izin verir, mevcut etkinlikleri silmenize ve seçilen etkinlikleri kaldırmanıza olanak tanır. Ayrıca, etkinliklere göre geri kalan zamanı gösterir ve etkinliklere resim eklemenize izin verir.
+Event_Flow_Application GitHub projesi, Flutter kullanarak oluşturulmuş bir etkinlik yönetim uygulamasıdır. Uygulama, etkinliklerinizi listeler, yeni etkinlikler eklemenize izin verir, mevcut etkinlikleri silmenize ve seçilen etkinlikleri kaldırmanıza olanak tanır. Ayrıca, etkinliklere göre geri kalan zamanı gösterir ve etkinliklere resim eklemenize izin verir.
 
 ## Kullanılan Teknolojiler:
 Dart
